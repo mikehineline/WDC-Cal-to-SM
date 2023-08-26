@@ -1,4 +1,4 @@
-# WDC-Cal-to-SM
+# WDC-Cal-to-SM (DEPRECATED - Salesforce has EOL'd Work.com)
 Salesforce Calendar to Work.com Contact Tracing
 
 Salesforce Work.com offers several solutions, two of which are:
